@@ -29,13 +29,11 @@ L'objectif principal est double : monitorer la croissance du chiffre d'affaires 
 ## Aperçu visuel
 
 ## Vue d'ensemble : Pilotage des ventes
-<img width="1739" height="732" alt="image" src="https://github.com/user-attachments/assets/8f9685f3-2230-4550-afd6-aad88f49747f" />
-
+<img width="1875" height="1830" alt="image" src="https://github.com/user-attachments/assets/3de913fd-db3a-4d5b-9c5a-afc2e0972b06" />
 Cette page permet de comprendre en un coup d'œil d'où vient le chiffre d'affaires. Le tableau détaillé en bas de page assure la traçabilité de chaque transaction.
 
 ## Focus : Analyse des pertes (Commandes annulées)
-<img width="1744" height="692" alt="image" src="https://github.com/user-attachments/assets/124adf68-1a41-477a-958d-906c2f66521d" />
-
+<img width="1864" height="1790" alt="image" src="https://github.com/user-attachments/assets/78e1d21e-5732-40d5-8709-e630c123d410" />
 Ici, on cherche à comprendre le "pourquoi". Le graphique en ruban montre l'évolution des annulations par produit sur l'année, permettant d'identifier des tendances saisonnières ou des problèmes récurrents.
 ## Interactivité : Info-bulles contextuelles
 <img width="1390" height="711" alt="image" src="https://github.com/user-attachments/assets/12218092-82df-4624-aaa0-529313a2e50f" />
